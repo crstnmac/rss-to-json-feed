@@ -1,10 +1,4 @@
 var feed = require("rss-to-json");
-// const fetch = require("node-fetch");
-// const getFeed = async (url) => {
-//   const data = await Feed.load(url);
-//   console.log(data);
-// };
-// getFeed("https://morioh.com/feed");
 
 const url = ["https://morioh.com/feed", "https://css-tricks.com/feed/"];
 
